@@ -14,7 +14,7 @@ This repository contains the script used to mint a custom SPL token on the Solan
 ![WhatsApp Image 2025-11-01 at 22 56 23_067d3f4b](https://github.com/user-attachments/assets/d6b04d79-d763-429e-8cdb-3109caa70663)
 
 You can verify the mint on Solscan using this link 👇<br>
-https://solscan.io/token/Fa3JUK2dokFJZgjDyXa5dSpRhrBb8veoNnpbw9zvqgzr?cluster=devnet
+[https://solscan.io/token/Fa3JUK2dokFJZgjDyXa5dSpRhrBb8veoNnpbw9zvqgzr?cluster=devnet](https://explorer.solana.com/address/676jN7TSaeHQBdmyDMy5Hh6y316wmEKd9ASx4g31fAR6?cluster=devnet)
 
 ## Commands Used
 ```bash
