@@ -1,4 +1,4 @@
-# 🪙 Token Mint — MVcoin
+# 🪙 Token Mint — MVcoin <img width="55" height="55" alt="image" src="https://github.com/user-attachments/assets/48499222-4dc1-4fe5-a655-2d09a24c9c4e" />
 
 ## Overview
 This repository contains the script used to mint a custom SPL token on the Solana Devnet using Solana CLI.
